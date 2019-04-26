@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 #ifndef HASHING_H
 #define HASHING_H
 
@@ -13,7 +12,7 @@ typedef struct{
 
 typedef struct{
   Item_Hash Tabela[7];
-  int Peso[5];
+  int Peso[46];
 }Tabela_Hash;
 
 void Inicializa_Hash(Tabela_Hash* Tabela);
