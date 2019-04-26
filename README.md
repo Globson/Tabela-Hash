@@ -1,2 +1,2 @@
-# Tabela-Hash
-Exercicio de implementação de tabela hash
+# Tabela-Hash-Universal
+Exercicio de implementação de tabela hash Universal
